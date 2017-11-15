@@ -18,7 +18,7 @@ for (var i = 0; i < gemQuantity.length; i++) {
 }
 
 $(".gemImage").each(function(index, item){
-	$(item).attr("data-gem-value", gemValue[index]);
+	$(item).attr("data-gem-value", gemValues[index]);
 });
 
 $(".gemImage").on("click", function() {
