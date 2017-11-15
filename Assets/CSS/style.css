@@ -1,5 +1,4 @@
 
-
 h1 {
 	font-family: 'Shrikhand', cursive;
 	font-size: 48px;
@@ -8,18 +7,38 @@ h1 {
 .container {
 	font-family: 'Raleway', sans-serif;;
 	font-size: 22px;
-	text-overflow: :wrap;
 	background-color: rgba(73,75,75,0.8);
 	color: white;
-	padding: 100px;
+	padding-top: 50px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-bottom:2px;
 	max-width: 500px;
 
 }
-
-.steven {
-	position:relative;
+.target {
+	padding: 5px 5px;
+	max-width: 500px;
+	position: relative;
+}
+#Steven {
+	position: absolute;
+	top: 10px;
+	right: 0
 }
 
+
+.Scoring{
+	padding:5px 5px;
+	max-width: px;
+	position: relative;
+}
+
+#Bubble {
+	position: absolute;
+	top: 10px;
+	right: 0
+}
 
 .targetNumb{
 	text-align: center;
