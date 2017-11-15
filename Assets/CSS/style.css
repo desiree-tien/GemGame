@@ -1,0 +1,77 @@
+
+body {background-image: url(../images/stevenuniverse.jpg);
+}
+
+h1 {
+	font-family: 'Shrikhand', cursive;
+	font-size: 48px;
+}
+
+/*header*/
+.container {
+	font-family: 'Raleway', sans-serif;;
+	font-size: 22px;
+	text-overflow: :wrap;
+	background-color: rgba(73,75,75,0.8);
+	color: white;
+	padding: 100px;
+	max-width: 500px;
+
+}
+
+
+
+/*price section*/
+.targetNumb{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	max-width: 330px;
+	position: relative;
+}
+
+
+
+/*score section*/
+/*.target {
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	color: #d4ce46;
+	padding: 20px 10px;
+	max-width: 330px;
+	background-color: rgba(13,146,99, 0.8);
+	position: relative;
+	top: 150px;*/
+}
+/*
+.scoring{
+	width: 50px;
+	height: auto;
+	padding-right: 20px;
+	top: 5px;
+	right: 0;
+}
+
+/*win/losse*/
+/*.status {
+	clear:both;
+	font-family: 'Marcellus SC', serif;
+	font-size: 20px;
+	line-height: 25px;
+	color: #494b4b;
+	padding: 10px 10px;
+	max-width: 330px;
+	background-color: rgba(212,206,70, 0.8);
+	position: relative;
+	top: 160px;
+*/*/
+
+}
+
+body {
+	padding-left:150px;
+	padding-top: 50px;
+	font-family: 'Saira Extra Condensed', sans-serif
+	font-size: 100%;
+}
+
