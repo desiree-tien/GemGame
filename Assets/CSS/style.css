@@ -7,7 +7,6 @@ h1 {
 	font-size: 48px;
 }
 
-/*header*/
 .container {
 	font-family: 'Raleway', sans-serif;;
 	font-size: 22px;
@@ -21,7 +20,6 @@ h1 {
 
 
 
-/*price section*/
 .targetNumb{
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
@@ -31,42 +29,6 @@ h1 {
 }
 
 
-
-/*score section*/
-/*.target {
-	font-family: 'Raleway', sans-serif;
-	font-size: 25px;
-	color: #d4ce46;
-	padding: 20px 10px;
-	max-width: 330px;
-	background-color: rgba(13,146,99, 0.8);
-	position: relative;
-	top: 150px;*/
-}
-/*
-.scoring{
-	width: 50px;
-	height: auto;
-	padding-right: 20px;
-	top: 5px;
-	right: 0;
-}
-
-/*win/losse*/
-/*.status {
-	clear:both;
-	font-family: 'Marcellus SC', serif;
-	font-size: 20px;
-	line-height: 25px;
-	color: #494b4b;
-	padding: 10px 10px;
-	max-width: 330px;
-	background-color: rgba(212,206,70, 0.8);
-	position: relative;
-	top: 160px;
-*/*/
-
-}
 
 body {
 	padding-left:150px;
